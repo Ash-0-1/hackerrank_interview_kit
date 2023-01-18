@@ -1,2 +1,2 @@
 # hackerrank_interview_kit
-Hacker Rank Interview Preparation Kit. In Golang. Da da da
+Hacker Rank Interview Preparation Kit. In Golang.
